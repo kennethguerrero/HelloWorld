@@ -6,7 +6,7 @@
              x:Class="HelloWorld.Views.HelloWorldPage">
 
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="Hello World from Xamarin Forms and Prism!" />
+        <Label Text="Hello World!" />
     </StackLayout>
 
 </ContentPage>
